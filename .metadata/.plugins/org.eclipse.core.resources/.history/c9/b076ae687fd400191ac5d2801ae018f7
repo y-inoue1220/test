@@ -1,8 +1,0 @@
-
-public class Capsule {
-	public static void main(String[] args){
-		Person static void main(String[] args){
-		System.out.println(taro.name);
-		}
-	}
-}
