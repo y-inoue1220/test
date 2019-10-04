@@ -21,7 +21,7 @@
 </tr>
 <tr>
 	<td><strong>例外を文字列に変換</strong></td>
-	<td><%= exception.getMessage() %></td>
+	<td><%= exception.toString() %></td>
 </tr>
 <tr>
 	<td><strong>スタックトレース</strong></td>

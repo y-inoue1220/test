@@ -1,5 +1,3 @@
-
-
 import java.io.IOException;
 import java.io.PrintWriter;
 
@@ -17,10 +15,10 @@ public class WelcomeServlet extends HttpServlet {
         super();
     }
 
-	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws
-	ServletException, IOException {
+protected void doPost(HttpServletRequest request, HttpServletResponse response) throws
+ServletException, IOException {
 		request.setCharacterEncoding("UTF-8");
-		 response.setContentType("text/html; charet=UTF-8");
+		 response.setContentType("text/html; charset=UTF-8");
 		String username = request.getParameter("username");
 
 		 System.out.println(username);
