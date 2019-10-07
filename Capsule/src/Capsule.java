@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 public class Capsule {
 	public static void main(String[]args){
@@ -12,7 +12,7 @@ public class Capsule {
 	}
 }
 
-=======
+
 
 public class Capsule {
 	public static void main(String[]args){

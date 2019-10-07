@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 public class Person {
 	private String name =null;
@@ -29,7 +29,6 @@ public class Person {
 
 
 
-=======
 
 public class Person {
 	private String name =null;
